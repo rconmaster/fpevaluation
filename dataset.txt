@@ -1,0 +1,38 @@
+Dataset used for the evaluation: https://github.com/mdeff/fma (fma_small)
+
+Files removed from evaluation:
+
+Corrupted (6):
+098565.mp3
+098567.mp3
+098569.mp3
+099134.mp3
+108925.mp3
+133297.mp3
+
+Duplicates (25):
+035544.mp3
+038961.mp3
+040542.mp3
+051785.mp3
+056460.mp3
+072149.mp3
+073763.mp3
+082505.mp3
+086116.mp3
+086761.mp3
+093518.mp3
+098618.mp3
+098619.mp3
+110771.mp3
+114212.mp3
+114222.mp3
+114223.mp3
+120470.mp3
+128441.mp3
+128880.mp3
+130650.mp3
+131425.mp3
+145702.mp3
+145703.mp3
+145707.mp3
